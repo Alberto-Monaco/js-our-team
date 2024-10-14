@@ -52,8 +52,8 @@ for (let i = 0; i < teamMembers.length; i++) {
 
 	let markup = `<div class="col">
 						<div class="card bg-black d-flex flex-row align-items-center">
-							<img src="${img}" class=col-4 alt="" />
-							<div class="ms-2 col-9">
+							<img src="${img}" class=col-lg-4 alt="" />
+							<div class="ms-2 col-lg-9">
 								<h2 class="text-white">${name}</h2>
 								<h5 class="text-white">${role}</h5>
 								<p class="text-primary">${email}</p>
