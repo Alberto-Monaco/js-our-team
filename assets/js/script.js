@@ -60,7 +60,7 @@ for (let i = 0; i < teamMembers.length; i++) {
 							</div>
 						</div>
 					</div>
-  `
+`
 
 	teamsEl.insertAdjacentHTML('beforeend', markup)
 }
